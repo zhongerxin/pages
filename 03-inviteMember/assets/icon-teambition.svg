@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-teambition</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="视觉稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="成员邀请-二维码" transform="translate(-497.000000, -560.000000)">
+            <g id="main-copy-3" transform="translate(465.000000, 171.000000)">
+                <g id="qrcode-copy-2" transform="translate(16.000000, 373.000000)">
+                    <g id="Group" transform="translate(16.000000, 16.000000)">
+                        <g id="wechat">
+                            <g id="icon">
+                                <rect id="Rectangle-7" x="0" y="0" width="20" height="20"></rect>
+                                <path d="M10,18 C5.581722,18 2,14.418278 2,10 C2,5.581722 5.581722,2 10,2 C14.418278,2 18,5.581722 18,10 C18,14.418278 14.418278,18 10,18 Z M13.0230878,14.5452065 L12.5701064,12.8842746 C10.7128825,13.4580511 10.0183109,13.0654672 10.0183109,11.6310259 L10.0183109,9.03393234 L12.7060008,9.03393234 L12.7060008,7.16160906 L10.0183109,7.16160906 L10.0183109,4.942 L7.844,5.10809319 L7.844,11.6612247 C7.844,12.5520882 7.94969567,13.2315604 8.28188206,13.7600387 C9.05195051,14.998188 10.7279818,15.2699768 13.0230878,14.5452065 Z" id="Combined-Shape" fill="#383838"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
